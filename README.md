@@ -11,7 +11,7 @@ The Realized Cap is the total worth of all BTC that it was acquired at. This is 
 
 The idea of the MVRV Ratio is that:
 * Rapid price appreciation will encourage sellers in profit to realize those gains. This is particularly pertinent when price has increased at such a rapid rate that nearly 100% of market participants are in profit.
-* Price oscillates from periods of overbough and oversold with respective to the "true mean". This is the concept of reflexivity, as price increases, psychologically, the asset is percieved to be more valuable.
+* Price oscillates from periods of overbought and oversold with respective to the "true mean". This is the concept of reflexivity, as price increases, psychologically, the asset is percieved to be more valuable.
 This causes price to overshoot to the upside and vice-versa to the downside. The MVRV is a simple metric that shows when price has appreciated to an unsustainable magnitude that a reversion is necessary.
 
 The script applies qunatile normalization, a normalization technique. In short it takes the original distribution and maps it to a normal distribution while maintaining the 
