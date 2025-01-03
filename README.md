@@ -45,7 +45,7 @@ Ensure you have Python (version 3.8 or later) installed on your system. You can 
    ```
 
 3. **Run the script**
-To run the script type the following command in the terminal:
-```
-python Normalized_MVRV.py
-```
+   To run the script type the following command in the terminal:
+   ```
+   python Normalized_MVRV.py
+   ```
