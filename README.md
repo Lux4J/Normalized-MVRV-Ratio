@@ -21,7 +21,7 @@ Overbought and oversold zones are marked when the Z > Score is + or - 1.96 respe
 
 Below is the result of applying this to previous price data on BTC:
 
-
+![image](https://github.com/user-attachments/assets/a7145f7e-c3af-43c6-a19c-f067eb72619e)
 
 ## Installation and Setup Instructions
 
